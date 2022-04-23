@@ -13,7 +13,7 @@
 
 <b>PPT link</b>
 <hr>
-
+<a href="https://docs.google.com/presentation/d/1CN6ViOGtZQJI5MiFI6-SlA6jFAp8SXZE/edit?usp=sharing&ouid=114942155579646880011&rtpof=true&sd=true">PPT here</a>
 <br>
 
   <b>Technical Stack</b>
