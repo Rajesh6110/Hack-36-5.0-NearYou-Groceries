@@ -12,7 +12,7 @@ NearYou Groceries aims to connect buyers to local vendors to help them grow thei
 <b>Table of Contents:</b>
 <hr>
 
-<b>Technical Stack</b>
+<b> 1. Technical Stack</b>
 <hr>
 <br>
 1. HTML
@@ -22,6 +22,8 @@ NearYou Groceries aims to connect buyers to local vendors to help them grow thei
 <br>
 <br>
 
-<b>Contributors</b>
+<b> 2. Contributors</b>
 <hr>
-<a href="
+<a href="https://github.com/rajesh6110">Rajesh Raj</a>
+<a href="https://github.com/megatron3002">Kush Prayag Raval</a>
+<a href="https://github.com/megatron3002">Omkar Prashant Juvatkar</a>
