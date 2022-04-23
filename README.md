@@ -12,6 +12,7 @@
 <br>
 
 <b>PPT link</b>
+<br>
 <a href="https://docs.google.com/presentation/d/1CN6ViOGtZQJI5MiFI6-SlA6jFAp8SXZE/edit?usp=sharing&ouid=114942155579646880011&rtpof=true&sd=true">PPT here</a>
 <br>
 <br> 
@@ -23,8 +24,8 @@
   4) MongoDB<br>
 <br>
 
-  <b>Contributors:</b>
-  Team ERROR404<br>
+  <b>Contributors:</b><br>
+  <h4>Team ERROR404</h4><br>
   <a href="https://github.com/rajesh6110">Rajesh Raj</a><br>
   <a href="https://github.com/kushraval71">Kush Prayag Raval</a><br>
   <a href="https://github.com/megatron3002">Omkar Prashant Juvatkar</a><br>
