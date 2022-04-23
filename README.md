@@ -16,8 +16,8 @@
 
 <br>
 
-<b>Table of Contents:</b>
-  <b>1. Technical Stack</b>
+<b>Table of Contents:</b><br>
+  <b>Technical Stack</b>
   <hr>
   1) HTML<br>
   2) CSS<br>
@@ -25,7 +25,7 @@
   4) MongoDB<br>
 <br>
 
-  <b>2. Contributors</b>
+  <b>Contributors</b>
   <hr>
   Team ERROR404<br>
   <a href="https://github.com/rajesh6110">Rajesh Raj</a><br>
