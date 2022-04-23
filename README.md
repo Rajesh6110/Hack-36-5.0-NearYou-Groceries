@@ -25,7 +25,7 @@
 <br>
 
   <b>Contributors:</b><br>
-  <h4>Team ERROR404</h4><br>
+  <h4>Team ERROR404</h4>
   <a href="https://github.com/rajesh6110">Rajesh Raj</a><br>
   <a href="https://github.com/kushraval71">Kush Prayag Raval</a><br>
   <a href="https://github.com/megatron3002">Omkar Prashant Juvatkar</a><br>
