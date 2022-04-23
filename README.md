@@ -16,7 +16,6 @@
 
 <br>
 
-<b>Table of Contents:</b><br>
   <b>Technical Stack</b>
   <hr>
   1) HTML<br>
